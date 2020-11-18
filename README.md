@@ -14,13 +14,11 @@ https://localhost:5001/infectado
 	"longitude": -46.6565712
 }
 ```
-OBS: é preciso ter configurar o acesso ao banco no appsettings.
+OBS: é preciso ter configurar o acesso ao banco no appsettings. (cluster setado em teste está desativado)
 
 Links Uteis:
 
 - .net core - https://dotnet.microsoft.com/download
-
-- visual code - https://code.visualstudio.com/download
 
 - postman - https://www.postman.com/downloads/
 
